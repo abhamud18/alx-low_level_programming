@@ -27,4 +27,3 @@ void print_strings(const char *separator, const unsigned int n, ...)
 	va_end(list);
 	printf("\n");
 }
-© 2022 GitHu
